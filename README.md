@@ -1,6 +1,5 @@
 # Automated Testing Program - Version 0.1
 
-**Author:** DSM  
 **Release Date:** 2017
 
 ## Description
